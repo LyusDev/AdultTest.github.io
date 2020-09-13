@@ -1,0 +1,106 @@
+{
+    "tasks": {
+        "1": {
+            "id": 1,
+            "pts": 5,
+            "desc": "Mag saing ng bigas"
+        },
+        "2": {
+            "id": 2,
+            "pts": 7,
+            "desc": "Mag laba"
+        },
+        "3": {
+            "id": 3,
+            "pts": 9,
+            "desc": "Mag hugas ng plato"
+        },
+        "4": {
+            "id": 4,
+            "pts": 11,
+            "desc": "Mag himay ng manok"
+        },
+        "5": {
+            "id": 5,
+            "pts": 13,
+            "desc": "Gumising before 7AM"
+        },
+        "6": {
+            "id": 6,
+            "pts": 15,
+            "desc": "Matulog before 10PM"
+        },
+        "7": {
+            "id": 7,
+            "pts": 17,
+            "desc": "Mag sampay ng damit"
+        },
+        "8": {
+            "id": 8,
+            "pts": 19,
+            "desc": "Mag tupi ng damit"
+        },
+        "9": {
+            "id": 9,
+            "pts": 21,
+            "desc": "Mag prito ng pagkain"
+        },
+        "10": {
+            "id": 10,
+            "pts": 23,
+            "desc": "Mag palit ng ilaw"
+        },
+        "11": {
+            "id": 11,
+            "pts": 25,
+            "desc": "Mag punas ng sala at figurines"
+        },
+        "12": {
+            "id": 12,
+            "pts": 27,
+            "desc": "Mag floor wax ng sahig"
+        },
+        "13": {
+            "id": 13,
+            "pts": 29,
+            "desc": "Mag plantsa"
+        },
+        "14": {
+            "id": 14,
+            "pts": 31,
+            "desc": "Mag grocery"
+        },
+        "15": {
+            "id": 15,
+            "pts": 33,
+            "desc": "Mamalengke"
+        },
+        "16": {
+            "id": 16,
+            "pts": 35,
+            "desc": "Mag linis ng CR"
+        }
+    },
+    "countpts": {
+        "1": {
+            "age": "Bata ka pa",
+            "desc": "Marami ka pang kakainin na bigas",
+            "pts": "5 - 49"
+        },
+        "2": {
+            "age": "Binata/dalaga na",
+            "desc": "Isip bata parin pero slightly matured",
+            "pts": "50 - 99"
+        },
+        "3": {
+            "age": "Semi-adult na",
+            "desc": "Papasang adult pero di pa talaga ready",
+            "pts": "100 - 149"
+        },
+        "4": {
+            "age": "Adult na",
+            "desc": "Di mo na pwedeng i-deny, Enjoy mo na lang",
+            "pts": "150 - 200+"
+        }
+    }
+}
